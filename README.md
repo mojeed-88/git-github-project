@@ -6,6 +6,9 @@ This repository demonstrates real-world Git and GitHub workflows including branc
 ## Technologies
 - Git
 - GitHub
+- Branching & merging
+- Pull requests
+- Issues and collaboration
 
 ## Author
 Mojeed Tijani
